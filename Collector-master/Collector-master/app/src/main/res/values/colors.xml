@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="light_black">#111111</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="btn_submit">#3cabf8</color>
+    <color name="btn_submit_pressed">#3296dd</color>
+    <color name="trancent">#00000000</color>
+    <color name="title_bar_color">#aB0000</color><!--#009688  #2578b5-->
+    <color name="dark_title_bar">#008677</color>
+    <color name="text_color">#0079ff</color>
+    <color name="split">#987cb9</color>
+    <color name="split2">#d8d8d8</color>
+    <color name="gray">#66978989</color>
+    <color name="dark_green">#106184</color>
+    <color name="blue">#0000ff</color>
+    <color name="light_orange">#ff5d33</color>
+    <color name="light_gray">#a0a39a</color>
+    <color name="dark_gray">#aaaaaa</color>
+    <color name="content_back">#ffffff</color>
+    <color name="tran_black">#66000000</color>
+</resources>
